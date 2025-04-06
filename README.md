@@ -1,6 +1,6 @@
 # Event Management API
 
-A robust Django REST API for managing events, user registrations, and notifications.
+A Django REST API for managing events, user registrations, and email notifications
 
 ## Features
 
